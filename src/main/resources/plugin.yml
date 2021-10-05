@@ -1,0 +1,3 @@
+name: AntiLaggotPlugin
+version: '${project.version}'
+main: dev.bleepo.antilaggotplugin.Main
